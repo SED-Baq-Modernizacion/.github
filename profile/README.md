@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Organizacion creada para repositorios de la Secretaria de Educacion de Barranquilla
 <!--
 
 **Here are some ideas to get you started:**
